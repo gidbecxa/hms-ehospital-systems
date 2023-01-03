@@ -42,7 +42,7 @@ Les principaux modules et caractéristiques de la solution proposée peuvent inc
 
 ### Schéma du système proposé
 
-[Voir le fichier ehospital-diagram-fr]()
+[Voir le fichier ehospital-diagram-fr](https://github.com/gidbecxa/hms-ehospital-systems/blob/main/ehospital-schema.clj)
 
 ## Système proposé HMS/eHospital + gestion des pharmacies
 
